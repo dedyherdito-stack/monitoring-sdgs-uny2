@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard SDGs UNY",
+  "description": "Sistem pemantauan, klasifikasi AI, validasi bukti, dan pelaporan transparansi 17 SDGs untuk Bagian Humas Universitas Negeri Yogyakarta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
